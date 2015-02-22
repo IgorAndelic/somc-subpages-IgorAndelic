@@ -1,0 +1,86 @@
+/* General container styles */
+.somc_widget_subpages ul li{
+    display: inline-block;
+}
+
+.somc_widget_subpages ul li a{
+    word-wrap: break-word;
+}
+
+.subpages-container ul {
+    list-style: none;
+}
+
+.subpages-container > ul {
+    margin-left: 0;
+}
+
+.subpages-container .wp-post-image {
+    float: left;
+}
+
+.subpages-container li {
+    clear: both;
+}
+
+.somc_widget_subpages ul li {
+    background-position: 0 7px;
+}
+
+/* General button styles */
+.subpages-container .subpages-button {
+    border: 0;
+    border-radius: 2px;
+    background: #eee;
+    color: #000;
+    padding: 0.3em 0.5em;
+    margin-bottom: 0.2em;
+}
+
+/* Expand button */
+.subpages-button-expand {
+    padding: 0;
+    margin-right: 0.5em;
+}
+
+.page_item_has_children > .subpages-button-expand:before {
+    content: "+";
+}
+
+.page_item_has_children.expanded > .subpages-button-expand:before {
+    content: "-";
+}
+
+/* Sort button */
+.subpages-button-sort {
+    padding: 0;
+    font-size: 0.7em;
+    float: right
+}
+
+.page_item_has_children > .subpages-button-sort {
+    margin-left: 0.5em;
+    display: none;
+}
+
+.page_item_has_children.expanded > .subpages-button-sort {
+    display: inline;
+}
+
+.subpages-button-sort:before {
+    content: "(A-Z)"
+}
+
+.subpages-button-sort.subpages-sortorder-asc:before {
+    content: "(Z-A)"
+}
+
+
+/* Children */
+.subpages-container .page_item_has_children > .children {
+    display: none;
+}
+
+.subpages-container .page_item_has_children.expanded > .children {
+    display: block;
+}
