@@ -3,8 +3,8 @@ This Wordpress plugin is listing subpages of the current page, by a widget or sh
 
 Features:
 
-Widget and shortcode usage support. 
-Expandable/Collapsible treeview. 
+Widget and shortcode usage support.  
+Expandable/Collapsible treeview.  
 Automatically truncates page titles longer than 20 characters. 
 Shows featured image thumbnail if exists. 
 Ascending/descending sorting where multiple child pages exists. 
