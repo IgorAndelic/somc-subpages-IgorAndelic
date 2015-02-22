@@ -1,5 +1,5 @@
 # somc-subpages-igor
-This Wordpress plugin is listing subpages of the current page, by a widget or shortcode  [somc-subpages-igor]
+This Wordpress plugin is listing subpages of the current page, by a widget or shortcode   [somc-subpages-igor]
 
 Features:
 
