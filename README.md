@@ -5,10 +5,10 @@ Features:
 
 Widget and shortcode usage support.  
 Expandable/Collapsible treeview.  
-Automatically truncates page titles longer than 20 characters. 
-Shows featured image thumbnail if exists. 
-Ascending/descending sorting where multiple child pages exists. 
-Follows CSS styles of the page it is used in, styling could easily be customized by higher level stylesheets.
+Automatically truncates page titles longer than 20 characters.  
+Shows featured image thumbnail if exists.  
+Ascending/descending sorting where multiple child pages exists.  
+Follows CSS styles of the page it is used in, styling could easily be customized by higher level stylesheets. 
 
 How to install
 
